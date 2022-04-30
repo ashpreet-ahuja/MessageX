@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "863915066174",
+    "project_id": "messagex-70444",
+    "storage_bucket": "messagex-70444.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:863915066174:android:e51d95ef661a3e3dc0626f",
+        "android_client_info": {
+          "package_name": "com.example.messagex"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "863915066174-l8tf05m2r1b5f53tcjs668hagcmvt231.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUmNl5kxm73faCUZ4TVvqUZABYb6xV18g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "863915066174-l8tf05m2r1b5f53tcjs668hagcmvt231.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
